@@ -1,0 +1,14 @@
+names:
+- cekirdek
+- kayisi
+- yaprak
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: kayisi-acaej
+  url: https://universe.roboflow.com/kays-wy3nt/kayisi-acaej/dataset/1
+  version: 1
+  workspace: kays-wy3nt
+test: ../test/images
+train: ../train/images
+val: ../valid/images
